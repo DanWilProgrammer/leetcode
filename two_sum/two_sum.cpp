@@ -12,3 +12,5 @@ public:
         return {};
     }
 }; 
+
+// write me a function that takes in an array of distinct integers and an integer representing a target sum.
